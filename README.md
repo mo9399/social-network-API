@@ -5,8 +5,6 @@
 
 * [Installation](#installation)
 
-* [Built With](#builtWith)
-
 * [Contribution](#contribution)
 
 ## Description
